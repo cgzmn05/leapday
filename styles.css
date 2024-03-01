@@ -1,0 +1,112 @@
+*{
+  font-family: sans-serif;
+}
+
+.box {
+  display: block;
+  border: 2px dotted black;
+  margin: 10px auto;
+  padding: 10px;
+}
+
+header {
+  background-image: url("/Style/Images/redflowersdarkgreenbackground.jpg");
+  background-color: black;
+  height: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.headertext {
+  font-size: 30px;
+  text-align: center;
+  color: white;
+  font-style: italic;
+  padding: 10px 0 0 0;
+}
+
+#author {
+  font-family: "Playfair";
+  font-weight: 300;
+}
+
+h2 {
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+.color {
+  display: inline-block;
+  border: 1px solid black;
+  padding: 20px 40px;
+  text-align: center;
+}
+
+#darkteal {
+  background-color: #015269;
+  color: white;
+  font-size: 20px;
+}
+
+#lightteal {
+  background-color: #007991;
+  color: white;
+  font-size: 20px;
+}
+
+#dustyrose {
+  background-color: #DA928F;
+  color: white;
+  font-size: 20px;
+}
+
+#tomatored {
+  background-color: #C13A2E;
+  color: white;
+  font-size: 20px;
+}
+
+#deepred {
+  background-color: #911E19;
+  color: white;
+  font-size: 20px;
+}
+
+.fonts {
+  font-size: 20px;
+  display: inline-block;
+  width: 45%;
+}
+
+#playfair h3, #playfair p {
+  font-family: "Playfair", serif;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+#garamond h3, #garamond p {
+  font-family: "Cormorant+Garamond";
+}
+
+#noto h3, #noto p {
+  font-family: "Noto Sans";
+}
+
+#source h3, #source p {
+  font-family: "Source Code Pro"
+}
+
+
+
