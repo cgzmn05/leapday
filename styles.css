@@ -3,7 +3,7 @@
 }
 
 .box {
-  display: block;
+  display: flex;
   border: 2px dotted black;
   margin: 10px auto;
   padding: 10px;
